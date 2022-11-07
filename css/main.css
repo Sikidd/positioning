@@ -14,6 +14,10 @@ html {
     background: #ff0;
 }
 
+body{
+    margin:0;
+}
+
 h1 {
     font-weight: normal;
     margin: auto;
